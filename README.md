@@ -48,9 +48,15 @@ Machine Learning · Deep Learning · Computer Vision · Data Preprocessing
 - Deep Learning fundamentals
 - Practical AI application development
 
+## GitHub Activity
+
+[![Nisha's GitHub statistics](https://github-readme-stats.vercel.app/api?username=nisha-muthurajan&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&include_all_commits=true&card_width=420&theme=default)](https://github.com/nisha-muthurajan)
+
+[View contribution activity directly on GitHub](https://github.com/nisha-muthurajan)
+
 ## Contact
 
-- **GitHub:** [github.com/nisha-muthurajan](https://github.com/nisha-muthurajan)
-- **LinkedIn:** [www.linkedin.com/in/nisha-m-795ba9351?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/nisha-m-795ba9351?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Email:** [nishamuthurjan66@gmail.com]
+<a href="https://github.com/nisha-muthurajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/nisha-m-795ba9351?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:nishamuthurjan66@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
